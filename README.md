@@ -1,13 +1,10 @@
 # COVID-19 Tracker
 
-COVID-19 Tracker build with react.
+COVID-19 Tracker build with ReactJS, Axios and MaterialUI.
 
-In the project directory, you can run:
+### Setup
 
-### `npm start`
-
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+run `npm start`
 
 ### API
 
